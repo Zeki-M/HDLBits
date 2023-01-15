@@ -7,39 +7,39 @@ My Verilog HDL solution for HDLBits @ https://hdlbits.01xz.net/wiki/Main_Page
 ├── Circuits
 │   ├── Combiantional_Logic
 │   │   ├── Arithmetic_Circuits
-│   │   │   ├── adder100.v
-│   │   │   ├── adder3.v
-│   │   │   ├── bcdadd4.v
-│   │   │   ├── ece241_2014_q1c.v
-│   │   │   ├── fadd.v
 │   │   │   ├── hadd.v
-│   │   │   └── m2014_q4j.v
-│   │   ├── Basic_Gates
-│   │   │   ├── 7420.v
-│   │   │   ├── gates.v
-│   │   │   ├── gatesv100.v
-│   │   │   ├── gatesv.v
+│   │   │   ├── fadd.v
+│   │   │   ├── adder3.v 
+│   │   │   ├── m2014_q4j.v
+│   │   │   ├── ece241_2014_q1c.v
+│   │   │   ├── adder100.v
+│   │   │   └── bcdadd4.v
+│   │   └── Basic_Gates
+│   │   │   ├── m2014_q4h.v
+│   │   │   ├── m2014_q4i.v
 │   │   │   ├── m2014_q4e.v
 │   │   │   ├── m2014_q4f.v
 │   │   │   ├── m2014_q4g.v
-│   │   │   ├── m2014_q4h.v
-│   │   │   ├── m2014_q4i.v
+│   │   │   ├── gates.v
+│   │   │   ├── 7420.v
+│   │   │   ├── truthtable1.v
 │   │   │   ├── mt2015_eq2.v
 │   │   │   ├── mt2015_q4a.v
 │   │   │   ├── mt2015_q4b.v
 │   │   │   ├── mt2015_q4.v
-│   │   │   ├── popcount3.v
 │   │   │   ├── ringer.v
 │   │   │   ├── thermostat.v
-│   │   │   └── truthtable1.v
-│   │   ├── Karnaugh_Map
-│   │   │   ├── 2012_q1g.v
-│   │   │   ├── ece241_2013_q2.v
-│   │   │   ├── ece_241_2014_q3.v
+│   │   │   ├── popcount3.v
+│   │   │   ├── gatesv.v
+│   │   │   └── gatesv100.v
+│   │   └── Karnaugh_Map
 │   │   │   ├── kmap1.v
 │   │   │   ├── kmap2.v
 │   │   │   ├── kmap3.v
 │   │   │   ├── kmap4.v
+│   │   │   ├── 2012_q1g.v
+│   │   │   ├── ece241_2013_q2.v
+│   │   │   ├── ece_241_2014_q3.v
 │   │   │   └── m2014_q3.v
 │   │   └── Multiplexers
 │   │       ├── mux256to1.v
