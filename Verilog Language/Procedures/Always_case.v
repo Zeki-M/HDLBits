@@ -20,5 +20,4 @@ module top_module (
             default : out= 0;
         endcase
     end
-
 endmodule
